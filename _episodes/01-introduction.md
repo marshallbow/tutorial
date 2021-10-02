@@ -13,3 +13,6 @@ FIXME
 
 {% include links.md %}
 
+<a href="{{ page.root }}/IMG_1390.JPEG">
+ <img src="{{ page.root }}/fig/IMG_1390.JPEG" alt="What am I" />
+</a>
